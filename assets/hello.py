@@ -1,4 +1,4 @@
 # @bruin.name: Hello
-# @bruin.depends: dataset.bruin_test
+# @bruin.depends: bruin-hiring.cdt_selcukemreozer.q1
 
 print("Hello, world!")
