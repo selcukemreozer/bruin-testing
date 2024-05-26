@@ -1,6 +1,5 @@
 
 .DS_Store
-.gitignore
 .bruin.yml
 logs/*.log
 credentials.json
